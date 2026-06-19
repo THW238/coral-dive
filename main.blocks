@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="m.:tm]Rp~wf}nDpk}R#z">mySprite</variable><variable id="K.I?lxz}475*b|/BJGVb">mySprite2</variable><variable type="KIND_SpriteKind" id="Dpn;oqmTR;E)G=W)yUT^">Player</variable><variable type="KIND_SpriteKind" id="Y6lwokBgjvG`I~i_[s*o">Projectile</variable><variable type="KIND_SpriteKind" id="_N+JG@%6ICd(6%w}Z?wC">Food</variable><variable type="KIND_SpriteKind" id="sDXFUYXmw4RAk4~u1Jt%">Enemy</variable><variable type="KIND_SpriteKind" id="yDYEd)p[2H.r.uWv^Au}">MiniMenu</variable></variables><block type="pxt-on-start" id="yVZf#Enb9om+CH`lXl|v" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="f[f,6PxhX}^cx30]fI}/"><field name="VAR" id="m.:tm]Rp~wf}nDpk}R#z">mySprite</field><value name="VALUE"><shadow type="math_number" id="%=)/1tbrv+kOm5{@u_Hy"><field name="NUM">0</field></shadow><block type="spritescreate" id="Y0rWoK`[vKfvi(DJ.huB"><value name="img"><shadow type="screen_image_picker" id="?R96)Nc:.dgZ(h/?p^EW"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="lX`#//7$r{vYb@s$[2Ep"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="arcade_story_start_cutscene" id="Si0(a!%M%LzTzu/ae]--"><statement name="HANDLER"><block type="gamesetbackgroundimage" id="5-II|)la6_*vF4*.e[38"><value name="img"><shadow type="background_image_picker" id="~S4l,bc^!ij(?dL-AsQ5"><field name="img">assets.image`cutscene_1`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image1"}}</data></shadow></value></block></statement></block></next></block></statement></block></xml>
